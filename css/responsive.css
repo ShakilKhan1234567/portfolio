@@ -1,0 +1,151 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    .timer{
+        margin: 0 20px;
+        padding: 20px 40px;
+    }
+    .navbar ul li a {
+        font-size: 17px;
+    }
+    .port1 {
+        margin: 15px 10px;
+    }
+    .feature-text p {
+        width: 225px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .counter h4{
+        font-size: 36px;
+    }
+    
+    .ftr-text h5 {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    .send input{
+        width: 600px;
+    }
+    .feature-text p {
+        font-size: 15px;
+        width: 180px;
+    }
+    .port1 {
+        margin: 14px -8px;
+    }
+    .feature-text a {
+        font-size: 18px;
+    }
+    .ftr2-text a {
+        padding: 0 3px;
+    }
+    form textarea {
+        width: 600px;
+    }
+    .tb {
+        left: 286px;
+    }
+    .feature-text p {
+        width: 279px;
+    }
+    .about-text p {
+        font-size: 16px;
+        padding-top: 0px;
+        line-height: 30px;
+    }
+    .about-text h3 {
+        padding-top: 0px;
+    }
+    #service {
+        padding: 0px 0;
+    }
+    .main-slick p {
+        width: 623px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+    .count h5 {
+        padding: 15px;
+    }
+    .feature-text p {
+        width: 260px;
+    }
+    .over-text h4{
+        font-size: 16px;
+    }
+    .about-text h4 {
+        margin-top: 10px;
+    }
+   
+}
+
+@media(max-width:767.98px){
+    .bnr-text h1 {
+        font-size: 68px;
+    }
+    #banner{
+        padding: 125px 0;
+    }
+    .timer{
+        margin: 10px 10px;
+        padding: 5px 0px;
+    }
+    .counter h4{
+        font-size: 26px;
+    }
+    .ftr-text h5{
+        font-size: 15px;
+    }
+    .send input {
+        width: 457px;
+    }
+    form textarea {
+        width: 456px;
+    }
+    .tb {
+        left: 200px;
+       
+    }
+    .ftr2-text a {
+        padding: 0 0;
+    }
+    .about-text h4 {
+        margin-top: 10px;
+    }
+    .ftr2-text a {
+        font-size: 14px;
+    }
+    .main-slick p {
+        width: 427px;
+        font-size: 15px;
+    }
+}
+@media(max-width:575.98px){
+    .bnr-text h1 {
+        font-size: 27px;
+    }
+    .bnr-icon i{
+        margin: 0 6px;
+        margin-top: 10px;
+    }
+    .ser-text-left ul li a {
+        padding-left: -7px;
+    }
+    .port-head h1{
+        font-size: 38px;
+    }
+    .counter h4{
+        font-size: 14px;
+    }
+    .send input{
+        width: 350px;
+    }
+    form textarea{
+        width: 350px;
+    }
+    .main-slick p{
+        width: 300px;
+    }
+}
+
+
